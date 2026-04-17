@@ -1,6 +1,1 @@
-{
-  "env": {
-    "PORT": "3000",
-    "BASE_PATH": /
-  }
-}
+{"buildCommand": "vite build","outputDirectory": "dist/public","env": {"PORT": "3000","BASE_PATH": "/"}}
