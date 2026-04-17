@@ -1,6 +1,6 @@
 {
   "env": {
     "PORT": "3000",
-    "BASE_PATH": "https://your.production.base.path"
+    "BASE_PATH": /
   }
 }
